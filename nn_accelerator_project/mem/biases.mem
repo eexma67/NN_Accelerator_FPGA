@@ -1,0 +1,54 @@
+// Neural Network Biases
+// Format: S.4.11 fixed-point
+
+// Layer 0: 16 biases
+// Address range: 0 - 15
+0033
+FFAE
+0016
+0048
+FFDC
+001F
+006B
+FFBE
+008D
+FFA2
+0030
+000E
+FF76
+FFCB
+FFF9
+FF30
+
+// Layer 1: 16 biases
+// Address range: 16 - 31
+FFF4
+009D
+FEFC
+0073
+FF59
+00CD
+00A7
+0181
+FFED
+FF4D
+018D
+FFE0
+0150
+FFE7
+00C1
+FFB6
+
+// Layer 2: 10 biases
+// Address range: 32 - 41
+FE83
+FE0D
+FD0B
+FD40
+FD48
+FCA4
+FAF4
+FD2F
+FD03
+FCE8
+
